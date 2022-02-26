@@ -4,8 +4,8 @@ A search input based color search generator using the Unsplash API.
 
 Built with React, CSS & Material UI components
 
-![app_screenshot_main](/public/app_screenshots_one.png?raw=true)
-![app_screenshot_results](/public/app_screenshots_two.png?raw=true)
+![app_screenshot_main](public/app_screenshot_one.png?raw=true)
+![app_screenshot_results](public/app_screenshot_two.png?raw=true)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
