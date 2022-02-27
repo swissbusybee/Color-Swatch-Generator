@@ -53,7 +53,7 @@ export default function ColorCard({ itemData }) {
               <CardMedia
                 component="img"
                 height={`${cardHeight}`}
-                src={`${itemData.urls.small}`}
+                image={`${itemData.urls.small}`}
                 alt="color image"
               />
             </div>
