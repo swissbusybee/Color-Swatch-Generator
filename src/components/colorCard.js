@@ -22,6 +22,7 @@ export default function ColorCard({ itemData }) {
   return (
     <Grid item>
       <Card
+        data-testid="color-card"
         key={itemData.id}
         sx={{
           ":hover": {

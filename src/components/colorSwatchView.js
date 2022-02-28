@@ -10,6 +10,7 @@ export default function ColorSwatchView({ data }) {
       justifyContent="center"
       alignItems="center"
       spacing={1}
+      data-testid="color-swatch-view"
     >
       {data.slice(0, 9).map((item) => (
         <ColorCard itemData={item} key={item.id} />

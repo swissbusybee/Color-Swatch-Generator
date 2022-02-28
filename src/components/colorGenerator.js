@@ -64,7 +64,7 @@ export default function ColorGenerator() {
   }
 
   return (
-    <Container maxWidth="xs">
+    <Container maxWidth="xs" data-testid="color-generator">
       <SearchInputContainer
         searchInput={searchInput}
         handleSearchInput={handleSearchInput}
